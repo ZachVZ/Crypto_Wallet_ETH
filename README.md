@@ -31,8 +31,12 @@ To use the notebook:
 
 
 
-### Examples
+### Examples (view raw)
+Video 1: Displays the userguide of the app
+https://github.com/ZachVZ/Crypto_Wallet_ETH/blob/main/Starter_Code/Images/2021-10-03%2016-34-31.mkv
 
+Video 2: Displays the etherscan transaction
+https://github.com/ZachVZ/Crypto_Wallet_ETH/blob/main/Starter_Code/Images/2021-10-03%2016-36-11.mkv
 
 
 ## Contributors
